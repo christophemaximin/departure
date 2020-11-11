@@ -10,7 +10,7 @@ require 'departure/version'
 RAILS_DEPENDENCY_VERSION = ENV.fetch('RAILS_VERSION', ['>= 5.2.0', '< 6.1'])
 
 Gem::Specification.new do |spec|
-  spec.name          = 'departure'
+  spec.name          = 'departure-76c9880'
   spec.version       = Departure::VERSION
   spec.authors       = ['Ilya Zayats', 'Pau Pérez', 'Fran Casas', 'Jorge Morante', 'Enrico Stano', 'Adrian Serafin', 'Kirk Haines', 'Guillermo Iguaran']
   spec.email         = ['ilya.zayats@redbooth.com', 'pau.perez@redbooth.com', 'nflamel@gmail.com', 'jorge.morante@redbooth.com', 'adrian@softmad.pl', 'wyhaines@gmail.com', 'guilleiguaran@gmail.com']
